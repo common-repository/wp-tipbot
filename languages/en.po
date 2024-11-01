@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP TipBot\n"
+"POT-Creation-Date: 2018-12-11 11:49+0200\n"
+"PO-Revision-Date: 2018-12-11 11:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: wp-tipbot <office@timeline.dev>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.widget.php:13
+msgid "Displays a XRP TIP BOT widget."
+msgstr ""
+
+#: functions/settings.php:6 functions/settings.php:7
+msgid "WP TipBot"
+msgstr ""
+
+#: functions/settings.php:61
+msgid "WP TipBot Details"
+msgstr ""
+
+#: functions/settings.php:64
+msgid "Main settings"
+msgstr ""
+
+#: functions/settings.php:67
+msgid "Balance"
+msgstr ""
+
+#: functions/settings.php:70
+msgid "Shortcode"
+msgstr ""
+
+#: functions/settings.php:71
+msgid "Support"
+msgstr ""
+
+#: functions/settings.php:76
+msgid ""
+"Please set your default values! Once filled, you can simply use the [wp-"
+"tipbot] shortcode."
+msgstr ""
+
+#: functions/settings.php:81
+msgid "This will change the width of the button."
+msgstr ""
+
+#: functions/settings.php:87 functions/settings.php:153
+msgid "The tip amount of XRP you want to receive."
+msgstr ""
+
+#: functions/settings.php:98
+#, php-format
+msgid ""
+"The network your XRP Tip Bot account is linked to. Don’t have a XRP Tip Bot "
+"account? Get one <a href=\"%s\">here</a>."
+msgstr ""
+
+#: functions/settings.php:104 functions/settings.php:157
+msgid "Your username of the network which is linked to XRP Tip Bot."
+msgstr ""
+
+#: functions/settings.php:110 functions/settings.php:165
+msgid "The text which is shown on the button."
+msgstr ""
+
+#: functions/settings.php:116 functions/settings.php:169
+msgid "The text which is shown on the button, once the user send you a tip."
+msgstr ""
+
+#: functions/settings.php:136
+msgid "How to use the shortcode?"
+msgstr ""
+
+#: functions/settings.php:137
+msgid "Here is an example how to it:"
+msgstr ""
+
+#: functions/settings.php:140
+msgid "And here are the shortcode attributes that you can use:"
+msgstr ""
+
+#: functions/settings.php:145
+msgid "Uses the values from the default settings."
+msgstr ""
+
+#: functions/settings.php:149
+msgid "This will change the width of the button in px."
+msgstr ""
+
+#: functions/settings.php:161
+#, php-format
+msgid ""
+"The network your XRP Tip Bot account is linked to. (Use: \"twitter\", "
+"\"reddit\" or \"discord\")<br><small>Don’t have a XRP Tip Bot account? Get "
+"one <a href=\"%s\">here</a>.</small>"
+msgstr ""
+
+#: functions/settings.php:178
+#, php-format
+msgid ""
+"Tell us about your project and how the WP-Tipbot plugin helps to monetize "
+"your content. Sharing your story with us is a win-win - we will post it on "
+"our <a href=\"%s\" target=\"_blank\" rel=\"nofollow noopener\">blog</a> and "
+"<a href=\"%s\" target=\"_blank\" rel=\"nofollow noopener\">twitter</a> and "
+"you will get some extra attention from the community."
+msgstr ""
+
+#: functions/settings.php:180
+msgid "And if you like our plugin, please consider sharing some tips with us"
+msgstr ""
+
+#: functions/settings.php:186
+#, php-format
+msgid ""
+"For bugs and other support questions - please use the <a href=\"%s"
+"\">WordPress Support forum</a>."
+msgstr ""
+
+#: functions/settings.php:187
+#, php-format
+msgid ""
+"Find us on <a href=\"%s\" target=\"_blank\" rel=\"nofollow noopener"
+"\">twitter (@WpTipbot)</a> or check <a href=\"%s\" target=\"_blank\" rel="
+"\"nofollow noopener\">our website</a>."
+msgstr ""

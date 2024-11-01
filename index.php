@@ -1,0 +1,1 @@
+<?php //emptiness is golden
